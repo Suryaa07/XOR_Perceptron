@@ -49,4 +49,3 @@ The code demonstrates how to use a Multilayer Perceptron to solve the XOR proble
 
 Feel free to modify the hyperparameters, network architecture, or other aspects of the code to experiment with different configurations and datasets.
 
-For more details, please refer to the code and comments in the repository.
